@@ -5,3 +5,5 @@ Rules: Each player can roll the dice as many times as they want adding up the po
 
 Can you see the project here:
 https://jvsfarias.github.io/Dice_Game/
+
+![dice_game](https://user-images.githubusercontent.com/101264734/173235345-c657a750-c6a6-4cec-bde3-66fad83be854.PNG)
